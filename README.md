@@ -1,8 +1,6 @@
 # 👋 Hi there!
 
-I'm Roshan Waiba, a BCA student and aspiring software developer from Nepal.
-
-I'm currently learning Python and Django and building practical web applications while improving my programming and software development fundamentals.
+I'm Roshan Waiba, a BCA student from Nepal interested in Python, Django, and building practical web applications. I'm currently strengthening my programming fundamentals and learning more about software development, Git, cloud technologies, and deployment.
 
 ## 🛠️ Technologies
 
