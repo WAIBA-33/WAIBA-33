@@ -1,6 +1,8 @@
 # 👋 Hi there!
 
-I'm Roshan Waiba, a BCA student from Nepal interested in Python, Django, and building practical web applications. I'm currently strengthening my programming fundamentals and learning more about software development, Git, cloud technologies, and deployment.
+I'm Roshan Waiba, a BCA student from Nepal interested in Python, Django, and building practical web applications.
+
+I'm currently strengthening my programming fundamentals while learning more about software development, Git & GitHub, cloud technologies, and deployment.
 
 ## 🛠️ Technologies & Tools
 
@@ -14,15 +16,15 @@ I'm Roshan Waiba, a BCA student from Nepal interested in Python, Django, and bui
 **Frameworks**
 
 * Django
-  
-**Design**
 
-* figma
-
-**Database**
+**Databases**
 
 * SQLite
-* mysql
+* MySQL
+
+**Design**
+
+* Figma
 
 **Tools**
 
@@ -30,23 +32,45 @@ I'm Roshan Waiba, a BCA student from Nepal interested in Python, Django, and bui
 * GitHub
 * VS Code
 
-
 ## 🌱 Currently Learning
 
-- Python & Django
-- Git & GitHub
-- AWS
-- Docker
-- Software Development Fundamentals
+* Python & Django
+* Git & GitHub
+* AWS
+* Docker
+* Software Development Fundamentals
 
-## 📂 Projects
+## 📂 Featured Projects
 
 ### 🌄 Travel Nepal
-A Django-based tourism web application for exploring destinations and tour packages, with a tour recommendation feature based on destination, price, and duration similarity.
+
+A Django-based tourism web application developed as my BCA final-year project.
+
+**Features include:**
+
+* Destination and tour package management
+* Search and filtering
+* Tour booking functionality
+* User accounts and reviews
+* Tour recommendation based on destination, price, and duration similarity
+
+**Built with:** Python, Django, HTML, CSS, JavaScript, SQLite
 
 ### 📅 Smart Appointment Management System
-A Django-based appointment management system featuring doctor/patient roles and appointment slot generation.
+
+A Django-based appointment management system for managing doctors, patients, and appointments.
+
+**Features include:**
+
+* Doctor and patient roles
+* Patient registration and appointment booking
+* Doctor appointment dashboard
+* Appointment cancellation and rescheduling
+* 30-minute appointment slot generation
+* Conflict checking for booked appointment times
+
+**Built with:** Python, Django, HTML, CSS, JavaScript, SQLite
 
 ## 📫 Connect With Me
 
-- GitHub: [@WAIBA-33](https://github.com/WAIBA-33)
+* GitHub: [@WAIBA-33](https://github.com/WAIBA-33)
