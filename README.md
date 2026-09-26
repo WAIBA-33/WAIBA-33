@@ -2,15 +2,30 @@
 
 I'm Roshan Waiba, a BCA student from Nepal interested in Python, Django, and building practical web applications. I'm currently strengthening my programming fundamentals and learning more about software development, Git, cloud technologies, and deployment.
 
-## 🛠️ Technologies
+## 🛠️ Technologies & Tools
 
-- Python
-- Django
-- HTML
-- CSS
-- JavaScript
-- SQLite
-- Git & GitHub
+**Languages**
+
+* Python
+* HTML
+* CSS
+* JavaScript
+
+**Frameworks**
+
+* Django
+
+**Database**
+
+* SQLite
+* mysql
+
+**Tools**
+
+* Git
+* GitHub
+* VS Code
+
 
 ## 🌱 Currently Learning
 
