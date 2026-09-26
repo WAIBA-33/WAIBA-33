@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi there!
 
-<!--
-**WAIBA-33/WAIBA-33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Roshan Waiba, a BCA student and aspiring software developer from Nepal.
 
-Here are some ideas to get you started:
+I'm currently learning Python and Django and building practical web applications while improving my programming and software development fundamentals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies
+
+- Python
+- Django
+- HTML
+- CSS
+- JavaScript
+- SQLite
+- Git & GitHub
+
+## 🌱 Currently Learning
+
+- Python & Django
+- Git & GitHub
+- AWS
+- Docker
+- Software Development Fundamentals
+
+## 📂 Projects
+
+### 🌄 Travel Nepal
+A Django-based tourism web application for exploring destinations and tour packages, with a tour recommendation feature based on destination, price, and duration similarity.
+
+### 📅 Smart Appointment Management System
+A Django-based appointment management system featuring doctor/patient roles and appointment slot generation.
+
+## 📫 Connect With Me
+
+- GitHub: [@WAIBA-33](https://github.com/WAIBA-33)
