@@ -14,6 +14,10 @@ I'm Roshan Waiba, a BCA student from Nepal interested in Python, Django, and bui
 **Frameworks**
 
 * Django
+  
+**Design**
+
+*figma
 
 **Database**
 
